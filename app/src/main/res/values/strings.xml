@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">Phone</string>
+    <string name="email">Email</string>
+    <string name="email_pl">Email_pl</string>
+    <string name="password">Password</string>
+    <string name="password_pl">Password_pl</string>
+    <string name="logo">Logo</string>
+    <string name="registration">Registration</string>
+    <string name="lastname">Lastname</string>
+    <string name="lastname_hint">Morvai</string>
+    <string name="firstname">Firstname</string>
+    <string name="firstname_hint">Laszlo</string>
+    <string name="email_hint">kiscica@gmail.com</string>
+    <string name="password_hint">*****</string>
+    <string name="password_2">*****</string>
+    <string name="back">Back</string>
+    <string name="login">Login</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+    <string name="nameOfPack">NameOfPack</string>
+    <string name="info1OfPack">Info1OfPack</string>
+    <string name="info2OfPack">Info2OfPack</string>
+    <string name="info3OfPack">Info3OfPack</string>
+    <string name="priceOfPack">PriceOfPack</string>
+    <string name="perMonthOfPack">Ft/Month</string>
+    <string name="packAddToCart">Add</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="nameOfPack">
+        <item>
+            Net 5 GB
+        </item>
+        <item>
+            Net 15 GB
+        </item>
+        <item>
+            Net 60 GB
+        </item>
+        <item>
+            Korlátlan Net\nOkosvilág
+        </item>
+        <item>
+            Korlátlan Net\nBiztonság
+        </item>
+        <item>
+            Korlátlan Net\nUtazás
+        </item>
+        <item>
+            Korlátlan Net\nNetflix
+        </item>
+        <item>
+            Korlátlan Net\nSzórakozás
+        </item>
+    </string-array>
+    <string-array name="priceOfPack">
+        <item>
+            2542
+        </item>
+        <item>
+            5092
+        </item>
+        <item>
+            7642
+        </item>
+        <item>
+            11127
+        </item>
+        <item>
+            11127
+        </item>
+        <item>
+            11127
+        </item>
+        <item>
+            11977
+        </item>
+        <item>
+            11977
+        </item>
+    </string-array>
+    <string-array name="info1OfPack">
+        <item>
+            5 GB belföldön és EU-ban
+        </item>
+        <item>
+            15 GB belföldön és EU-ban
+        </item>
+        <item>
+            ebből 30 GB EU-ban is
+        </item>
+        <item>
+            45 GB EU-ban
+        </item>
+        <item>
+            45 GB EU-ban
+        </item>
+        <item>
+            60 GB EU-ban
+        </item>
+        <item>
+            50 GB EU-ban
+        </item>
+        <item>
+            50 GB EU-ban
+        </item>
+    </string-array>
+    <string-array name="info2OfPack">
+        <item>
+
+        </item>
+        <item>
+
+        </item>
+        <item>
+
+        </item>
+        <item>
+            5G képesség
+        </item>
+        <item>
+            5G képesség
+        </item>
+        <item>
+            5G képesség
+        </item>
+        <item>
+            5G képesség
+        </item>
+        <item>
+            5G képesség
+        </item>
+    </string-array>
+    <string-array name="info3OfPack">
+        <item>
+
+        </item>
+        <item>
+
+        </item>
+        <item>
+
+        </item>
+        <item>
+            2 db multiSIM okoseszközbe
+        </item>
+        <item>
+            Netvédelem
+        </item>
+        <item>
+            5 GB EU-n kívül
+        </item>
+        <item>
+            Netflix
+        </item>
+        <item>
+            HBO MAX
+        </item>
+    </string-array>
+</resources>
